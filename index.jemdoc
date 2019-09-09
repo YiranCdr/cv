@@ -35,7 +35,7 @@ Sun Yat-sen University, [https://sites.google.com/site/xiaojunquan Prof.
 	-- Explored different word encoding methods such as Glove, BPE, share-dict BPE and none embedding. Found out that share-dict BPE encoding is the most efficient method when applied to attention-based NMT task.
 
 == Work Experience 
-- Internship\n
+- Dialogue System Internship\n
 Sept 2018 - Mar 2019\n
 Tencent Inc., Perceptual Intelligence Group
 	-- Developed a pattern-based framework for a task-oriented Arena of Valor chatbot in weather and music domain. 
