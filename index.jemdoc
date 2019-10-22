@@ -24,6 +24,15 @@ Contact: [yiransucdr@gmail.com Email]
 - Deep Learning
 
 == Research Experience
+#- Coursework Project for LIN 393: COMP LING: MINIMAL SUPERVSN
+#Oct 2019 - Present
+#University of Texas at Austin
+#*Consistency Regularization in NLP*
+#	-- Applied consistency regularization methods in natural language processing tasks in order to improve the robustness of the original model.
+#	-- Imported paraphrase perturbation on input text so as to provide a more human-understandable way of perturbation for consistency regularization. 
+#	-- Exploring different kinds of text perturbation method and testing their performance of consistency regularization. 
+#	-- Exploring different NLP models(CNN, Seq2Seq, etc) and testing their sensitivities towards consistency regularization. 
+
 - Laboratory Research Assistant\n
 Mar 2019 - Jun 2019\n
 Sun Yat-sen University, [https://sites.google.com/site/xiaojunquan Prof.
@@ -38,10 +47,17 @@ Sun Yat-sen University, [https://sites.google.com/site/xiaojunquan Prof.
 - Dialogue System Internship\n
 Sept 2018 - Mar 2019\n
 Tencent Inc., Perceptual Intelligence Group
-	-- Developed a pattern-based framework for a task-oriented Arena of Valor chatbot in weather and music domain. 
-	-- Designed a user log analyzer for the Arena of Valor chatbot in Python, in order to analyze customer stickiness under different usage scenarios.
+	-- Developed a pattern-based framework for a task-oriented Arena of Valor chatbot in weather and music domain in Python. 
+	-- Designed a user log analyzer for the Arena of Valor chatbot in Python, in order to analyze customer stickiness under different usage scenarios in Python.
 
 == Project Experience
+- Share your photo 
+Sept 2019 - Present
+Cousework project for EE 382V: ADVANCED PROGRAMMING TOOLS at University of Texas at Austin
+	-- Designed a photo-sharing app which support most functions as a social app(share a new photo, view photo from all other users, etc).
+	-- Applied Flask as backend, HTML+CSS+Bootstrap as frontend, and deployed the app on google app engine.
+	-- Developing the corresponding Android app with Kotlin. 
+
 - International Aerial Robotics Competition\n
 Sept 2017 - Aug 2018\n
 Computer Vision Group Member\n
