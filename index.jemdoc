@@ -38,7 +38,7 @@ Mar 2019 - Jun 2019\n
 Sun Yat-sen University, [https://sites.google.com/site/xiaojunquan Prof.
  Xiaojun Quan's] research team\n
 *Generalized attention mechanisms research: take nerual machine translation (NMT) task for an example*
-	-- Reconstructed the attention mechanisms on the Harvard NMT framework Open-NMT in PyTorch.
+	-- Reconstructed the attention mechanisms on the Harvard NMT framework Open-NMT in *PyTorch*.
 	-- Improved the classic attention method on Open-NMT by 0.25 point of BLEU score on wmt-14 en-de dataset. Our paper is still in process.
 	-- Sloved the problem of small batch size (which often means insufficient computational resources) may effect model performance in NMT tasks by extending steps and warm-up steps, as well as reducing learning rate.
 	-- Explored different word encoding methods such as Glove, BPE, share-dict BPE and none embedding. Found out that share-dict BPE encoding is the most efficient method when applied to attention-based NMT task.
@@ -47,29 +47,29 @@ Sun Yat-sen University, [https://sites.google.com/site/xiaojunquan Prof.
 - Dialogue System Internship\n
 Sept 2018 - Mar 2019\n
 Tencent Inc., Perceptual Intelligence Group
-	-- Developed a pattern-based framework for a task-oriented Arena of Valor chatbot in weather and music domain in Python. 
-	-- Designed a user log analyzer for the Arena of Valor chatbot in Python, in order to analyze customer stickiness under different usage scenarios in Python.
+	-- Developed a pattern-based framework for a task-oriented Arena of Valor chatbot in weather and music domain in *Python*. 
+	-- Designed a user log analyzer for the Arena of Valor chatbot in Python, in order to analyze customer stickiness under different usage scenarios in *Python*.
 
 == Project Experience
-- Share your photo 
-Sept 2019 - Present
-Cousework project for EE 382V: ADVANCED PROGRAMMING TOOLS at University of Texas at Austin
+- Share your photo\n 
+Sept 2019 - Present\n 
+Cousework project for EE 382V: ADVANCED PROGRAMMING TOOLS at University of Texas at Austin\n 
 	-- Designed a photo-sharing app which support most functions as a social app(share a new photo, view photo from all other users, etc).
-	-- Applied Flask as backend, HTML+CSS+Bootstrap as frontend, and deployed the app on google app engine.
-	-- Developing the corresponding Android app with Kotlin. 
+	-- Applied *Flask* as backend, *HTML \+ CSS \+ Bootstrap* as frontend, and deployed the app on google app engine.
+	-- Developing the corresponding Android app with *Kotlin*. 
 
 - International Aerial Robotics Competition\n
 Sept 2017 - Aug 2018\n
 Computer Vision Group Member\n
 	-- Designed an object detection and location system for an aerial robot. 
-	-- Constructed an SVM ground robot detector in C++ for our system by writing a self-implemented Histogram of Oriented Gradient descriptor (HOG descriptor) and applying OpenCV’s related packages.
+	-- Constructed an SVM ground robot detector in *C\+\+* for our system by writing a self-implemented Histogram of Oriented Gradient descriptor (HOG descriptor) and applying *OpenCV’s* related packages.
 
 - Sun Yat-sen University information platform\n
 Mar 2018 - Jun 2018\n
 Leader of the Android Group, Member of the Web Group
 	-- Designed a framework of the android project as an information publishing platform for all organizations in Sun Yat-sen University.
 	-- Analyzed the on-campus students’ demand of lacking for a unified information source.
-	-- Constructed pages for the Android project using Retrofit2 and RxJava, as well as Android Studio SDK tools.
+	-- Constructed pages for the *Android* project using Retrofit2 and RxJava, as well as Android Studio SDK tools.
 	-- Organized Android group meeting per week to control project and implement system improvement. 
 	-- Designed a front-end logic for the web project using HTML5, CSS and JavaScript.
 
@@ -77,8 +77,8 @@ Leader of the Android Group, Member of the Web Group
 2017 - 2018 Academic Year 1st Term\n
 Coursework Project for /Principles of Aritificial Intelligence/
 	-- Implemented the Pacman game based on UC Berkeley’s CS188 course materials.
-	-- Developed a multi-agent searching strategy using min-max algorithm and alpha-beta pruning in Python.
-	-- Implemented a value iteration Pacman agent and a Q-learning Pacman agent in Python.
+	-- Developed a multi-agent searching strategy using *min-max* algorithm and *alpha-beta pruning* in Python.
+	-- Implemented a *value iteration* Pacman agent and a *Q-learning* Pacman agent in *Python*.
 
 - Shortest Path for metro transfer\n
 2016 - 2017 Academic Year 1st Term\n
