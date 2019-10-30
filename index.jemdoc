@@ -13,25 +13,24 @@ Contact: [yiransucdr@gmail.com Email]
 
 == Education 
 - M.S., Department of Electrical and Computer Engineering, University of Texas at Austin, Austin, TX USA, Aug. 2019 - Present
-- B.E., School of Data and Computer Science , Sun Yat-sen University, Guangzhou, Guangdong China, Aug. 2015 - June 2019
+- B.E. (with GPA 3.8/4.0), School of Data and Computer Science , Sun Yat-sen University, Guangzhou, Guangdong China, Aug. 2015 - June 2019
 
 == Research Interests
 - Natural Language Processing
 	-- Nerual machine translationg
 	-- Dialogue System
 	-- Word representation
-- Machine Learning
-- Deep Learning
+	-- Deep Learning in NLP
 
 == Research Experience
-#- Coursework Project for LIN 393: COMP LING: MINIMAL SUPERVSN
-#Oct 2019 - Present
-#University of Texas at Austin
-#*Consistency Regularization in NLP*
-#	-- Applied consistency regularization methods in natural language processing tasks in order to improve the robustness of the original model.
-#	-- Imported paraphrase perturbation on input text so as to provide a more human-understandable way of perturbation for consistency regularization. 
-#	-- Exploring different kinds of text perturbation method and testing their performance of consistency regularization. 
-#	-- Exploring different NLP models(CNN, Seq2Seq, etc) and testing their sensitivities towards consistency regularization. 
+- Coursework Project for LIN 393: COMP LING: MINIMAL SUPERVSN\n
+Oct 2019 - Present\n
+University of Texas at Austin\n
+*Consistency Regularization in NLP*
+	-- Applied consistency regularization methods in natural language processing tasks in order to improve the robustness of the original model.
+	-- Imported paraphrase perturbation on input text so as to provide a more human-understandable way of perturbation for consistency regularization. 
+	-- Exploring different kinds of text perturbation method and testing their performance of consistency regularization. 
+	-- Exploring different NLP models(CNN, Seq2Seq, etc) and testing their sensitivities towards consistency regularization. 
 
 - Laboratory Research Assistant\n
 Mar 2019 - Jun 2019\n
