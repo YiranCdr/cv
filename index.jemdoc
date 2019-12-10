@@ -13,7 +13,7 @@ Contact: [yiransucdr@gmail.com Email]
 
 == Education 
 - M.S., Department of Electrical and Computer Engineering, University of Texas at Austin, Austin, TX USA, Aug. 2019 - Present
-- B.E. (with GPA 3.8/4.0), School of Data and Computer Science , Sun Yat-sen University, Guangzhou, Guangdong China, Aug. 2015 - June 2019
+- B.E. (with GPA 3.8/4.0), School of Data and Computer Science , Sun Yat-sen University, Guangzhou, Guangdong, China, Aug. 2015 - June 2019
 
 == Research Interests
 - Natural Language Processing
@@ -50,12 +50,13 @@ Tencent Inc., Perceptual Intelligence Group
 	-- Designed a user log analyzer for the Arena of Valor chatbot in Python, in order to analyze customer stickiness under different usage scenarios in *Python*.
 
 == Project Experience
-- Share your photo\n 
+- Share My Review\n 
 Sept 2019 - Present\n 
 Cousework project for EE 382V: ADVANCED PROGRAMMING TOOLS at University of Texas at Austin\n 
-	-- Designed a photo-sharing app which support most functions as a social app(share a new photo, view photo from all other users, etc).
-	-- Applied *Flask* as backend, *HTML \+ CSS \+ Bootstrap* as frontend, and deployed the app on google app engine.
-	-- Developing the corresponding Android app with *Kotlin*. 
+	-- Designed the app as a book review sharing platform, which supports posting a new review of a book category with a photo, viewing reviews under different book categories, finding nearby posts and readers, sharing posts to social media and so on. 
+	-- Applied *Flask* as back end, *HTML \+ CSS \+ Bootstrap* as frontend.
+	-- Developed the corresponding Android app with *Kotlin*.
+	-- Developed the corresponding *React Native* app in *JavaScript*.
 
 - International Aerial Robotics Competition\n
 Sept 2017 - Aug 2018\n
@@ -68,7 +69,7 @@ Mar 2018 - Jun 2018\n
 Leader of the Android Group, Member of the Web Group
 	-- Designed a framework of the android project as an information publishing platform for all organizations in Sun Yat-sen University.
 	-- Analyzed the on-campus students’ demand of lacking for a unified information source.
-	-- Constructed pages for the *Android* project using Retrofit2 and RxJava, as well as Android Studio SDK tools.
+	-- Constructed pages for the *Android* project in *Java* using Retrofit2 and RxJava, as well as Android Studio SDK tools.
 	-- Organized Android group meeting per week to control project and implement system improvement. 
 	-- Designed a front-end logic for the web project using HTML5, CSS and JavaScript.
 
